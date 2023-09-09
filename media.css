@@ -214,7 +214,7 @@
             transform: translate(-50%, -50%);
         }
         .resultado{
-            position:absolute;
+            position:fixed;
             top: 57%;
             left: 79%;
             transform: translate(-50%, -50%);
