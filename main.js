@@ -31,7 +31,7 @@ function calcularMedia() {
         media = media.toFixed(2);
         resultadoElement.textContent = "Seu preço medio em " + Ativo + "  é R$" + media;
     } else {
-        resultadoElement.textContent = "Insira valores válidos para Valor e Quantia";
+        resultadoElement.textContent = "Insira valores válidos para Valor/Quantia";
     }
 }
 
