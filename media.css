@@ -182,13 +182,13 @@
         border-radius: 5px;
         }
 
-    .Divisória{
+  .Divisória{
             width: 1px;
             height: 211px;
             background: #FFF;
             position:absolute;
             display: flex;
-            top: 69%;
+            top: 66%;
             left: 57%;
             transform: translate(-50%, -50%);
         }
@@ -200,14 +200,12 @@ left: 33%;
 
 .resultado{
   position:fixed;
-  top: 58%;
+  top: 55%;
  left: 79%;
 transform: translate(-50%, -50%);
 z-index: 3;
 width: 24vh;
 font-size: 25px;
-            
- }
     
 }
 
